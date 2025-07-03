@@ -1,6 +1,7 @@
 .columns > div {
-  display: flex;
-  flex-direction: column;
+/*  display: flex;
+  flex-direction: column; */
+  max-width: 100%;
 }
 
 .columns img {
