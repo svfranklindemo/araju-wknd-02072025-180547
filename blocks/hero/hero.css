@@ -52,6 +52,7 @@ main .hero-container {
   max-width: var(--med-grid-layout);
   width: 100%;
   border-bottom: 1px solid var(--color-neutral-300);
+  opacity: 0.7;
 }
 
 .hero .button-container a {
